@@ -11,5 +11,5 @@ redirect_from:
 I am a PhD candidate at Monash University, Australia, advised by Prof.Kleeman.
 
 ## Chronology
-Lorem Ipsum
+
 
