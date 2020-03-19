@@ -1,8 +1,8 @@
 ---
 title: "How to Train Your Event Camera Neural Network"
-author: "<u>T. Stoffregen\*</u>, C. Scheerlinck\*, D. Scaramuzza, T. Drummond, N. Barnes, L. Kleeman and R. Mahoney"
+author: "<u>T. Stoffregen</u>\*, C. Scheerlinck\*, D. Scaramuzza, T. Drummond, N. Barnes, L. Kleeman and R. Mahoney"
 collection: publications
-permalink: /20arXiv
+permalink: /20HTTYECNN
 excerpt: 
 date: 2020-03-20
 venue: arXiv
