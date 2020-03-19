@@ -1,0 +1,7 @@
+@InProceedings{Stoffregen17acra,
+  author        = {Timo Stoffregen and Lindsay Kleeman},
+  title         = {Simultaneous Optical Flow and Segmentation ({SOFAS}) using
+                  {D}ynamic {V}ision {S}ensor},
+  booktitle     = {"Australasian Conference on Robotics and Automation (ACRA)" },
+  year          = {2017}
+}
