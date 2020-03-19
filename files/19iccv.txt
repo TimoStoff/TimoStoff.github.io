@@ -1,0 +1,7 @@
+@InProceedings{Stoffregen19iccv,
+  author        = {Timo Stoffregen and Guillermo Gallego and Tom Drummond and
+                  Lindsay Kleeman and Davide Scaramuzza},
+  title         = {Event-Based Motion Segmentation by Motion Compensation},
+  booktitle     = {"Int. Conf. Comput. Vis. (ICCV)"},
+  year          = {2019}
+}
