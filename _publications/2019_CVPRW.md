@@ -1,6 +1,6 @@
 ---
 title: "CED: Color Event Camera Dataset"
-author: "<u>C. Scheerlinck</u>\\*, H. Rebecq\\*, T. Stoffregen, N. Barnes, R. Mahony, D. Scaramuzza"
+author: "C. Scheerlinck\\*, H. Rebecq\\*, <u>T. Stoffregen</u>, N. Barnes, R. Mahony, D. Scaramuzza"
 collection: publications
 permalink: /19CVPRW
 excerpt: 
