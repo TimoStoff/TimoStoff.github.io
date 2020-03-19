@@ -16,7 +16,7 @@ header:
 <a href="https://arxiv.org/pdf/1904.01293.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://youtu.be/m0brrMtrKoc" target="_blank"><b>Video</b></a>&emsp;
 <a href="https://drive.google.com/drive/folders/18Xdr6pxJX0ZXTrXW9tK0hC3ZpmKDIt6_?usp=sharing"><b>Dataset</b></a>&emsp;
-<a href="https://timostoff.github.io/files/20arXiv.txt" target="_blank"><b>BibTex</b></a>
+<a href="https://timostoff.github.io/files/20arxiv.txt" target="_blank"><b>BibTex</b></a>
 
 ![arXiv20_banner](/images/20arXiv_banner.png){:class="img-responsive"}
 
