@@ -4,6 +4,6 @@
   journal       = arxiv,
   year          = 2020,
   month         = march,
-  url           = {https://arxiv.org/abs/xxxx.xxxx},
-  arxivid       = {xxxx.xxxxx}
+  url           = {https://arxiv.org/abs/2003.09078},
+  arxivid       = {2003.09078}
 }
