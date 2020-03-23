@@ -13,7 +13,7 @@ header:
    teaser: 20arXiv_teaser.png
 ---
 
-<a href="https://arxiv.org/pdf/1904.01293.pdf" target="_blank"><b>PDF</b></a>&emsp;
+<a href="https://arxiv.org/pdf/2003.09078.pdf" target="_blank"><b>PDF</b></a>&emsp;
 <a href="https://youtu.be/m0brrMtrKoc" target="_blank"><b>Video</b></a>&emsp;
 <a href="https://drive.google.com/drive/folders/18Xdr6pxJX0ZXTrXW9tK0hC3ZpmKDIt6_?usp=sharing"><b>Dataset</b></a>&emsp;
 <a href="https://github.com/TimoStoff/event-cnn" target="_blank"><b>Code</b></a>&emsp;
