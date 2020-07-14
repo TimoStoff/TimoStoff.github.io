@@ -1,9 +1,7 @@
-@Article{Stoffregen20arxiv,
+@InProceedings{Stoffregen20eccv,
   author        = {T. Stoffregen, C. Scheerlinck, D. Scaramuzza, T. Drummond, N. Barnes, L. Kleeman, R. Mahoney},
-  title         = {How to Train Your Event Camera Neural Network},
-  journal       = arxiv,
+  title         = {Reducing the Sim-to-Real Gap for Event Cameras},
+  booktitle     = European Conference on Computer Vision (ECCV),
   year          = 2020,
-  month         = march,
-  url           = {https://arxiv.org/abs/2003.09078},
-  arxivid       = {2003.09078}
+  month         = august
 }
