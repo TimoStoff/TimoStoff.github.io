@@ -8,13 +8,13 @@ date: 2020-08-20
 venue: ECCV
 paperurl:
 citation: 
-youtubeId: m0brrMtrKoc
+youtubeId: 4-4dxSXwly8
 header:
    teaser: 20arXiv_teaser.png
 ---
 
 <a href="https://arxiv.org/pdf/2003.09078.pdf" target="_blank"><b>PDF</b></a>&emsp;
-<a href="https://youtu.be/m0brrMtrKoc" target="_blank"><b>Video</b></a>&emsp;
+<a href="https://youtu.be/4-4dxSXwly8" target="_blank"><b>Video</b></a>&emsp;
 <a href="https://drive.google.com/drive/folders/18Xdr6pxJX0ZXTrXW9tK0hC3ZpmKDIt6_?usp=sharing"><b>Dataset</b></a>&emsp;
 <a href="https://github.com/TimoStoff/event_cnn_minimal" target="_blank"><b>Code</b></a>&emsp;
 <a href="https://timostoff.github.io/files/20arxiv.txt" target="_blank"><b>BibTex</b></a>
