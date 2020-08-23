@@ -1,5 +1,5 @@
 ---
-title: "Reducing the Sim-to-Real Gap for Event Camera"
+title: "Reducing the Sim-to-Real Gap for Event Cameras"
 author: "<u>T. Stoffregen</u>\\*, C. Scheerlinck\\*, D. Scaramuzza, T. Drummond, N. Barnes, L. Kleeman and R. Mahoney"
 collection: publications
 permalink: /20ecnn
