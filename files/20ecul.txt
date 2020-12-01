@@ -1,0 +1,6 @@
+@PhDThesis{Stoffregen20Thesis,
+  author        = {Timo Stoffregen},
+  title         = {Motion Estimation by Focus Optimisation: Optic Flow and Motion Segmentation with Event Cameras},
+  school        = {Department of Electrical and Computer Systems Engineering, Monash University},
+  year          = 2020
+}
