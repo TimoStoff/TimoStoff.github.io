@@ -1,0 +1,6 @@
+@InProceedings{Stoffregen22wacv,
+  author        = {Timo Stoffregen and Hossein Daraei and Clare Robinson and Alexander Fix},
+  title         = {Event-Based Kilohertz Eye Tracking using Coded Differential Lighting},
+  booktitle     = {"Winter Conference on Applications of Computer Vision (WACV)"},
+  year          = {2022}
+}

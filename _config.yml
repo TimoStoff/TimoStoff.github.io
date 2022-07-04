@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Timo Stoffregen Research"
 title_separator          : "-"
 name                     : &name "Timo Stoffregen"
-description              : &description "PhD researcher at Monash University, specializing in event-based vision."
+description              : &description "Computer vision scientist at Facebook Reality Labs, building next-generation VR"
 url                      : https://TimoStoff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TimoStoff/academicpages.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Timo Stoffregen"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at Monash University Faculty of Electrical and Computer Science Engineering"
-  location         : "Melbourne, Australia"
+  bio              : "Computer vision scientist at Facebook Reality Labs"
+  location         : "Zurich, Switzerland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.au/citations?user=Ni3RzLsAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=EbMgs4AAAAAJ&hl"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Timo_Stoffregen"
   uri              :
